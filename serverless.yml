@@ -31,6 +31,7 @@ plugins:
 custom:
   client:
     bucketName: my-first-rs-aws-app
+    distributionFolder: build
 
 # you can overwrite defaults here
 #  stage: dev
